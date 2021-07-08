@@ -17,9 +17,19 @@ https://diamondaaronxg.github.io/summer-2021-ml-gearbots-aaron/public/index.html
 10. Data Acquisition check data and labels.  Edit if needed
 
 ## create model
-1.menu impulse design --> create Impulse
-1.
-1.
-1.
-1.
-1
+1. menu impulse design --> create Impulse
+2. add yellow star processing and learning blocks - save
+3. Click menu Image --> Generate features --> generate
+4. Transfer Learning --> Start training
+
+## Classify
+1. click Menu on Live Classification
+2. on cell phone "Switch to classification mode"
+3. cell phone "classifiy" and read percents 0.45 = 45%
+
+## OR put on webpage
+
+1. deployment --> WA (webAssembly) --> unzip
+2. copy the 2 files to your github folder
+3. make index.html from https://raw.githubusercontent.com/hpssjellis/my-examples-of-edge-impulse/main/public/downloads/index.html
+4. view webpage
