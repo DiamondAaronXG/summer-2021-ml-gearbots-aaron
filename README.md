@@ -16,7 +16,7 @@ https://diamondaaronxg.github.io/summer-2021-ml-gearbots-aaron/public/index.html
 9. Collect 30 imge and change label and repeat
 10. Data Acquisition check data and labels.  Edit if needed
 
-##create model
+## create model
 1.menu impulse design --> create Impulse
 1.
 1.
